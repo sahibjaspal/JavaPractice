@@ -15,6 +15,7 @@ public class SampleArraylist {
 
         studentNames.add("Sahib");
         studentNames.add("Manbir");
+        studentNames.add("Neha");
 
         System.out.print(studentNames);
     }
